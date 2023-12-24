@@ -1,15 +1,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=4930FF00&width=435&lines=Hi+I'm+Supun+Wellappili;"/>♥️👨🏻‍💻💫
 
-<h1 align="center">Hi 👋, I'm Supun Wellappili</h1>
+[//]: # (<h1 align="center">Hi 👋, I'm Supun Wellappili</h1>)
 <h3 align="center">A Passionate Full Stack Developer From Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunwellappili&label=Profile%20views&color=0e75b6&style=flat" alt="supunwellappili" /> </p>
 
-
+<h4>Developing java-based application both front and backend, problem solving, solo learning, creative design is my fashion. I’m self-motivated, tech enthusiastic person. Willing to accept responsibilities and challenges according to environments.</h4>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supunwellappili" alt="supunwellappili" /></a> </p>
 
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
+ <img align="right" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
 
 
 <br>
@@ -17,12 +17,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
-- 🔭 I’m currently working on **like to Code and Learn to build the next generation applications**
-
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **supunchandana1814@gmail.com**
+* 🖥️  See my portfolio at https://supunwellappili.github.io/MyPortfolio 
+* ✉️  How to reach me [supunwellappili1814@gmail.com](mailto:supunwellappili@gmail.com)
+* 🧠  I'm learning <B> Self-Learning </B> 
+* 🤝  I'm open to collaborating on <B>you</B>
+* ⚡  I am <B>Self-Motivator</B>
+* 🚀  I'm currently working on <B>like to Code and Learn to build the next generation applications</B>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
