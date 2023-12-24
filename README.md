@@ -1,11 +1,11 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=4930FF00&width=435&lines=Hi+I'm+Supun+Wellappili;"/>♥️👨🏻‍💻💫
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=4930FF00&width=435&lines=Hi+I'm+Supun+Wellappili;"/>
+♥️👨🏻‍💻💫
 
-[//]: # (<h1 align="center">Hi 👋, I'm Supun Wellappili</h1>)
 <h3 align="center">A Passionate Full Stack Developer From Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunwellappili&label=Profile%20views&color=0e75b6&style=flat" alt="supunwellappili" /> </p>
 
-<h4>Developing java-based application both front and backend, problem solving, solo learning, creative design is my fashion. I’m self-motivated, tech enthusiastic person. Willing to accept responsibilities and challenges according to environments.</h4>
+<h4><i>Developing java-based application both front and backend, problem solving, solo learning, creative design is my fashion. I’m self-motivated, tech enthusiastic person. Willing to accept responsibilities and challenges according to environments.</i></h4>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supunwellappili" alt="supunwellappili" /></a> </p>
 
 
@@ -35,50 +35,25 @@
 
 ### Badges
 
-
-[//]: # ()
-[//]: # (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supunwellappili&show_icons=true&locale=en&layout=compact" alt="supunwellappili" /></p>)
-
-[//]: # ()
-[//]: # (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supunwellappili&show_icons=true&locale=en" alt="supunwellappili" /></p>)
-
-[//]: # ()
-[//]: # (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supunwellappili&" alt="supunwellappili" /></p>)
-
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/SupunWellappili"><img src="https://github-readme-stats.vercel.app/api?username=SupunWellappili&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=3382ed&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="SupunWellappili's GitHub stats" /></a>
 <a href="http://www.github.com/SupunWellappili"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunWellappili&stroke=3382ed&background=000000&ring=facc15&fire=facc15&currStreakNum=3382ed&currStreakLabel=facc15&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 <a href="http://www.github.com/SupunWellappili"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SupunWellappili&bg_color=000000&color=3382ed&line=22c55e&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/SupunWellappili" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunWellappili&langs_count=10&title_color=facc15&text_color=3382ed&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-[//]: # (<b>Top Repositories</b>)
-
-[//]: # (<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />)
-
 ### Support Me
-
-<ol style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/supun-wellappili"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/supun-wellappili"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
-</ol>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 
 <p align="center"> 
   Visitor count<br>
  <img src="https://profile-counter.glitch.me/SupunWellappili/count.svg" />
 </p>
 
-
-[//]: # (<img alt="Coding" width="1000" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg"><br>)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
-
-
- <h5>😊 Thanks for looking my profile 😊</h5>
+😊 Thanks for looking my profile 😊
 
    
